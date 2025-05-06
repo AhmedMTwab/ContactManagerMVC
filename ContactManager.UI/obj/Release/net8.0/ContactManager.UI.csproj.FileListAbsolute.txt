@@ -400,3 +400,4 @@ D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Release\
 D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Release\net8.0\ContactManager.UI.pdb
 D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Release\net8.0\ContactManager.UI.genruntimeconfig.cache
 D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Release\net8.0\ref\ContactManager.UI.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Release\net8.0\ContactManager.UI.sourcelink.json

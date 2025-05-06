@@ -652,3 +652,4 @@ D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\ob
 D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.pdb
 D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.genruntimeconfig.cache
 D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ref\ContactManager.ServiceTests.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.sourcelink.json

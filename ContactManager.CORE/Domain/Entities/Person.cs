@@ -19,9 +19,9 @@ namespace Entities
 
         [StringLength(40)] //nvarchar(40)
         public string? Email { get; set; }
-        [RegularExpression("^[0-9]*$", ErrorMessage = "Phone number should contain 11 numbers only")]
-        [StringLength(11)]
-        [MinLength(11)]
+        [RegularExpression(@"^\+[0-9]{12}$", ErrorMessage = "Phone number must start with '+' followed by 12 digits (e.g., +201234567890)")]
+        [StringLength(13, ErrorMessage = "Phone number should be 13 numbers")]
+        [MinLength(13, ErrorMessage = "Phone number should be 13 numbers")]
         public string? phoneNumber { get; set; }
 
         public DateTime? DateOfBirth { get; set; }

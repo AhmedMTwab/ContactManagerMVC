@@ -13,7 +13,7 @@
     @*UserName*@
     <div class="form-field flex">
         <div class="w-25">
-            <label asp-for="UserName" class="form-label pt">UserName</label>
+            <label asp-for="UserName" class="form-label pt">Username</label>
         </div>
         <div class="flex-1">
             <input asp-for="UserName" class="form-input" />
@@ -71,7 +71,7 @@
     <label asp-for="PhoneNumber" class="form-label pt">Phone</label>
    </div>
    <div class="flex-1">
-    <input asp-for="PhoneNumber" class="form-input" />
+    <input asp-for="PhoneNumber" placeholder="e.g., +201234567890" class="form-input" />
     <span asp-validation-for="PhoneNumber" class="text-red"></span>
    </div>
   </div>

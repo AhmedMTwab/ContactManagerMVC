@@ -25,8 +25,9 @@ namespace ContactManager.CORE.DTO
         [DataType(DataType.Password)]
         public string ConfirmPassword { get; set; }
         [Required(ErrorMessage = "PhoneNumber is Required")]
-        [RegularExpression("^[0-9]*$", ErrorMessage = "Phone number should contain numbers only")]
-        [Phone]
+        [RegularExpression(@"^\+[0-9]{12}$", ErrorMessage = "Phone number must start with '+' followed by 12 digits (e.g., +201234567890)")]
+        [StringLength(13, ErrorMessage = "Phone number should be 13 numbers")]
+        [MinLength(13, ErrorMessage = "Phone number should be 13 numbers")]
         public string PhoneNumber { get; set; }
         [Required(ErrorMessage = "PersonName is Required")]
         public string PersonName { get; set; }
