@@ -1,0 +1,76 @@
+﻿@model List<PersonResponseDTO>
+@{
+	Layout = null;
+}
+<head>
+<link href="@("http://" + Context.Request.Host.ToString() + "/Stylesheet.css")" rel="stylesheet" />
+</head>
+<table class="table">
+	<thead>
+		<tr>
+
+			@await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+			{"ColumnName",nameof(PersonResponseDTO.PersonName)},
+			{"DisplayName","Name"}
+			})
+
+			@await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+			{"ColumnName",nameof(PersonResponseDTO.Age)},
+			{"DisplayName","Age"}
+			})
+
+			@await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+			{"ColumnName",nameof(PersonResponseDTO.Gender)},
+			{"DisplayName","Gender"}
+			})
+
+			@await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+			{"ColumnName",nameof(PersonResponseDTO.Country)},
+			{"DisplayName","Country"}
+			})
+
+			@await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+			{"ColumnName",nameof(PersonResponseDTO.Email)},
+			{"DisplayName","Email"}
+			})
+
+			@await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+			{"ColumnName",nameof(PersonResponseDTO.Address)},
+			{"DisplayName","Address"}
+			})
+
+			@await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+			{"ColumnName",nameof(PersonResponseDTO.phoneNumber)},
+			{"DisplayName","phone Number"}
+			})
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (PersonResponseDTO person in @Model)
+		{
+			<tr>
+				<td>
+					@person.PersonName
+				</td>
+				<td>
+					@person.Age
+				</td>
+				<td>
+					@person.Gender
+				</td>
+				<td>
+					@person.Country
+				</td>
+				<td>
+					@person.Email
+				</td>
+				<td>
+					@person.Address
+				</td>
+				<td>
+					@person.phoneNumber
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

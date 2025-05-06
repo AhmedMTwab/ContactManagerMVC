@@ -1,0 +1,51 @@
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.Infrastructure.deps.json
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.Infrastructure.runtimeconfig.json
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.Infrastructure.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.Infrastructure.pdb
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.CORE.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.CORE.pdb
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.csproj.AssemblyReference.cache
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.AssemblyInfoInputs.cache
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.AssemblyInfo.cs
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.csproj.CoreCompileInputs.cache
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactM.35643450.Up2Date
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\refint\ContactManager.Infrastructure.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.pdb
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.genruntimeconfig.cache
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ref\ContactManager.Infrastructure.dll
+D:\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.Infrastructure.deps.json
+D:\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.Infrastructure.runtimeconfig.json
+D:\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.Infrastructure.dll
+D:\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.Infrastructure.pdb
+D:\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.CORE.dll
+D:\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.CORE.pdb
+D:\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.csproj.AssemblyReference.cache
+D:\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.AssemblyInfoInputs.cache
+D:\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.AssemblyInfo.cs
+D:\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactM.35643450.Up2Date
+D:\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.dll
+D:\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\refint\ContactManager.Infrastructure.dll
+D:\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.pdb
+D:\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.genruntimeconfig.cache
+D:\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ref\ContactManager.Infrastructure.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.Infrastructure.deps.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.Infrastructure.runtimeconfig.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.Infrastructure.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.Infrastructure.pdb
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.CORE.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\bin\Debug\net8.0\ContactManager.CORE.pdb
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.csproj.AssemblyReference.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.AssemblyInfoInputs.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.AssemblyInfo.cs
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.csproj.CoreCompileInputs.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactM.35643450.Up2Date
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\refint\ContactManager.Infrastructure.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.pdb
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.genruntimeconfig.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.Infrastructure\obj\Debug\net8.0\ref\ContactManager.Infrastructure.dll

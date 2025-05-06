@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\C# Projects\\ContactManagerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80FE724D-DFA3-4A79-9269-F0F247DC8B48}|ContactManager.UI\\ContactManager.UI.csproj|d:\\programming\\c# projects\\contactmanagersolution\\contactmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FE724D-DFA3-4A79-9269-F0F247DC8B48}|ContactManager.UI\\ContactManager.UI.csproj|solutionrelative:contactmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FE724D-DFA3-4A79-9269-F0F247DC8B48}|ContactManager.UI\\ContactManager.UI.csproj|d:\\programming\\c# projects\\contactmanagersolution\\contactmanager.ui\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FE724D-DFA3-4A79-9269-F0F247DC8B48}|ContactManager.UI\\ContactManager.UI.csproj|solutionrelative:contactmanager.ui\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FE724D-DFA3-4A79-9269-F0F247DC8B48}|ContactManager.UI\\ContactManager.UI.csproj|d:\\programming\\c# projects\\contactmanagersolution\\contactmanager.ui\\iocservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FE724D-DFA3-4A79-9269-F0F247DC8B48}|ContactManager.UI\\ContactManager.UI.csproj|solutionrelative:contactmanager.ui\\iocservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOCServicesExtension.cs",
+              "DocumentMoniker": "D:\\programming\\C# Projects\\ContactManagerSolution\\ContactManager.UI\\IOCServicesExtension.cs",
+              "RelativeDocumentMoniker": "ContactManager.UI\\IOCServicesExtension.cs",
+              "ToolTip": "D:\\programming\\C# Projects\\ContactManagerSolution\\ContactManager.UI\\IOCServicesExtension.cs",
+              "RelativeToolTip": "ContactManager.UI\\IOCServicesExtension.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:02:30.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "D:\\programming\\C# Projects\\ContactManagerSolution\\ContactManager.UI\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "ContactManager.UI\\Controllers\\PersonsController.cs",
+              "ToolTip": "D:\\programming\\C# Projects\\ContactManagerSolution\\ContactManager.UI\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "ContactManager.UI\\Controllers\\PersonsController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAApwE4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:02:06.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\programming\\C# Projects\\ContactManagerSolution\\ContactManager.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ContactManager.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\programming\\C# Projects\\ContactManagerSolution\\ContactManager.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ContactManager.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAnwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:01:42.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

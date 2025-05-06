@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Stylesheet.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body class="grey-back">
+    <div class="container">
+        <div class="page-content white-back box" style="padding-top:1px">
+            <!-- Compact Top Bar -->
+            <div class="margin-bottom">
+                <div class="flex" id="top-bar-div" style="align-items: center;">
+                    <div class="flex-1" id="app-title-div" style="padding-top:0px">
+                        <h1 class="app-title text-blue" style="font-size: 1.3rem; margin: 0; display: flex; align-items: center; gap: 8px;">
+                            <i class="fa-solid fa-people-simple"></i>
+                            Contacts Manager
+                        </h1>
+                    </div>
+
+                    <div class="flex-1 pr" id="search-box-div" style="padding-top:0px; margin-right:200px">
+                        <div class="navbar account-links" style="width:fit-content">
+                            <ul class="list" style="margin: 0; padding: 0; display: flex; gap: 8px; justify-content: flex-end;">
+                                @if (User.Identity.IsAuthenticated)
+                                {
+                                    <li style="padding: 0; display: flex; align-items: center; gap: 4px;">
+                                        <i class="fa-solid fa-user text-green"></i>
+                                        <span class="text-green" style="font-size: 0.9rem;">@User.Identity?.Name</span>
+                                    </li>
+                                    <li style="padding: 0;">
+                                        <a asp-controller="Account" asp-action="Logout"
+                                           class="button-link button-red-back"
+                                           style="padding: 4px 8px; font-size: 0.85rem; color:darkblue">
+                                            Logout
+                                        </a>
+                                    </li>
+                                }
+                                else
+                                {
+                                    <li style="padding: 0;">
+                                        <a asp-controller="Account" asp-action="Register"
+                                           class="button-link button-blue-back"
+                                           style="padding: 4px 8px; font-size: 0.85rem; color:whitesmoke">
+                                            Register
+                                        </a>
+                                    </li>
+                                    <li style="padding: 0;">
+                                        <a asp-controller="Account" asp-action="Login"
+                                           class="button-link button-green-back"
+                                           style="padding: 4px 8px; font-size: 0.85rem; color:whitesmoke">
+                                            Login
+                                        </a>
+                                    </li>
+                                }
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main Navigation - Compact -->
+            <div class="navbar mb" style="padding: 4px 0; border-bottom: 1px solid #e0e0e0;">
+                <ul style="margin: 0; padding: 0;">
+                    <li style="display: inline-block; padding: 0;">
+                        <a asp-controller="Persons" asp-action="Index"
+                           style="display: inline-flex; align-items: center; gap: 6px;
+                              padding: 6px 12px; font-size: 0.95rem; color: #055c87;
+                              text-decoration: none;">
+                            <i class="fa-solid fa-address-book"></i>
+                            Persons
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Page Content -->
+            <div class="body" style="padding: 16px 0;">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+    @RenderSection("scripts", required: false)
+    </body>
+</html>

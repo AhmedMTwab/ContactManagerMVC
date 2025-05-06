@@ -1,0 +1,654 @@
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\CoverletSourceRootsMapping_ContactManager.ServiceTests
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\testhost.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\testhost.exe
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.ServiceTests.deps.json
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.ServiceTests.runtimeconfig.json
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.ServiceTests.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.ServiceTests.pdb
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\AutoFixture.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Azure.Core.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Azure.Identity.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Castle.Core.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\CsvHelper.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\EPPlus.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Fare.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\FluentAssertions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Antiforgery.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Moq.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.ClientModel.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Memory.Data.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.abstractions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.assert.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.core.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.CORE.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.Infrastructure.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.CORE.pdb
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.Infrastructure.pdb
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.csproj.AssemblyReference.cache
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.AssemblyInfoInputs.cache
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.AssemblyInfo.cs
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.csproj.CoreCompileInputs.cache
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactM.6D013FE6.Up2Date
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\refint\ContactManager.ServiceTests.dll
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.pdb
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.genruntimeconfig.cache
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ref\ContactManager.ServiceTests.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\CoverletSourceRootsMapping_ContactManager.ServiceTests
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\testhost.exe
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\testhost.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.ServiceTests.deps.json
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.ServiceTests.runtimeconfig.json
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.ServiceTests.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.ServiceTests.pdb
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\AutoFixture.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Azure.Core.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Azure.Identity.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Castle.Core.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\CsvHelper.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\EPPlus.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Fare.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\FluentAssertions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Antiforgery.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Moq.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.ClientModel.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.abstractions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.assert.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.core.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.CORE.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.Infrastructure.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.CORE.pdb
+D:\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.Infrastructure.pdb
+D:\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.csproj.AssemblyReference.cache
+D:\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.AssemblyInfoInputs.cache
+D:\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.AssemblyInfo.cs
+D:\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.csproj.CoreCompileInputs.cache
+D:\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactM.6D013FE6.Up2Date
+D:\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\refint\ContactManager.ServiceTests.dll
+D:\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.pdb
+D:\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.genruntimeconfig.cache
+D:\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ref\ContactManager.ServiceTests.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\CoverletSourceRootsMapping_ContactManager.ServiceTests
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\testhost.exe
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\testhost.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.ServiceTests.deps.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.ServiceTests.runtimeconfig.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.ServiceTests.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.ServiceTests.pdb
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\AutoFixture.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Azure.Core.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Azure.Identity.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Castle.Core.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\CsvHelper.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\EPPlus.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Fare.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\FluentAssertions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Antiforgery.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Moq.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.ClientModel.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Memory.Data.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.assert.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.core.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.CORE.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.Infrastructure.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.CORE.pdb
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\bin\Debug\net8.0\ContactManager.Infrastructure.pdb
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.csproj.AssemblyReference.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.AssemblyInfoInputs.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.AssemblyInfo.cs
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.csproj.CoreCompileInputs.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactM.6D013FE6.Up2Date
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\refint\ContactManager.ServiceTests.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.pdb
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ContactManager.ServiceTests.genruntimeconfig.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.ServiceTests\obj\Debug\net8.0\ref\ContactManager.ServiceTests.dll

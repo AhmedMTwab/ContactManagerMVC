@@ -1,0 +1,119 @@
+﻿@model List<PersonResponseDTO>
+@{
+    ViewData["Title"] = "Person List";
+}
+<form asp-action="Index" asp-controller="Persons" method="get">
+    <div class="flex">
+        <div class="flex-1">
+            <div class="text-grey">
+                <span>Contacts</span>
+                <i class="fa-solid fa-caret-right"></i>
+                <span class="text-grey">Persons</span>
+            </div>
+        </div>
+        <div class="flex-1 text-right">
+            <a class="button button-blue-back link-hover" style="color:aliceblue" asp-action="Add" asp-controller="Persons">Add New Person</a>
+
+            <a class="button button-blue-back link-hover" style="color:aliceblue" asp-action="AddFromExcel" asp-controller="Persons">Add New Persons From Excel File</a>
+
+
+            <a class="button button-blue-back link-hover" style="color:aliceblue" asp-action="PersonAsPDF" asp-controller="Persons">Download as PDF</a>
+
+            <a class="button button-blue-back link-hover" style="color:aliceblue" asp-action="PersonAsCSV" asp-controller="Persons">Download as CSV File</a>
+
+		</div>
+    </div>
+    <div class="table-container white-back">
+        <div class="flex">
+            <div class="flex-1">
+                <h1 class="text-blue">Persons</h1>
+            </div>
+            <div class="flex-3 text-right">
+                <label class="form-label">Search by:</label>
+                <select class="search-dropdown" name="SearchBy" style="width: 200px">
+                    @foreach (KeyValuePair<string, string> searchBy in ViewBag.SearchBy)
+                    {
+                        if (@searchBy.Key == ViewBag.currentSearchBy)
+                        {
+                            <option value="@searchBy.Key" selected>@searchBy.Value</option>
+                        }
+                        else
+                        {
+                            <option value="@searchBy.Key">@searchBy.Value</option>
+                        }
+                    }
+                </select>
+                <input type="search" id="Search" placeholder="Search" class="search-text" name="SearchString" value="@ViewBag.currentSearchString" style="width:200px" />
+                <button class="search-button button-blue-back">Search</button>
+                <a asp-action="Index" asp-controller="Persons" class="ml link-hover">Clear all</a>
+            </div>
+        </div>
+    </div>
+</form>
+
+<div class="table-container white-back">
+    <table class="table w-100 mt">
+        <thead>
+            <tr class="blue-back">
+                @await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+                {"ColumnName",nameof(PersonResponseDTO.PersonName)},
+                {"DisplayName","Name"}
+                })
+                @await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+                {"ColumnName",nameof(PersonResponseDTO.phoneNumber)},
+                {"DisplayName","phone Number"}
+                })
+
+                @await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+                {"ColumnName",nameof(PersonResponseDTO.Email)},
+                {"DisplayName","Email"}
+                })
+
+                @await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+                {"ColumnName",nameof(PersonResponseDTO.Age)},
+                {"DisplayName","Age"}
+                })
+
+                @await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+                {"ColumnName",nameof(PersonResponseDTO.Gender)},
+                {"DisplayName","Gender"}
+                })
+
+                @await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+                {"ColumnName",nameof(PersonResponseDTO.Country)},
+                {"DisplayName","Country"}
+                })
+
+                @await Html.PartialAsync("_PersonTableHeaderPartial", new ViewDataDictionary(ViewData){
+                {"ColumnName",nameof(PersonResponseDTO.Address)},
+                {"DisplayName","Address"}
+                })
+
+              
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (PersonResponseDTO person in @Model)
+            {
+                <tr class="border-bottom">
+                    <td class="pl">@person.PersonName</td>
+                    <td class="pl">@person.phoneNumber</td>
+                    <td class="pl">@person.Email</td>
+                    <td class="pl">@person.Age</td>
+                    <td class="pl">@person.Gender</td>
+                    <td class="pl">@person.Country</td>
+                    <td class="pl">@person.Address</td>
+                  
+                    <td class="text-center" >
+                        <a asp-controller="Persons" asp-action="Edit" asp-route-PersonID="@person.PersonID"
+                           class="button button-green-back link-hover" style="height:fit-content;padding:2px;color:white">Edit</a>
+                    </td>
+                    <td class="text-center">
+                        <a asp-action="Delete" asp-route-PersonID="@person.PersonID"
+                           class="button button-red-back link-hover" style="height:fit-content;padding:2px;color:white">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

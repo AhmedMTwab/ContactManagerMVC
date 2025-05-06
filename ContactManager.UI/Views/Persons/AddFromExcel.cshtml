@@ -1,0 +1,33 @@
+﻿﻿@{
+    ViewBag.Title = "Upload Persons from Excel";
+}
+
+<h2>Upload Persons from Excel</h2>
+<div class="w-50">
+    <form asp-action="AddFromExcel" asp-controller="Persons" method="post" enctype="multipart/form-data">
+        <div class="center-box grey-back text-blue text-center">
+            <h5>File should contain person in each row with colums order of PersonName,PhoneNumber,Email,Gender,DateOfBirth,Address,countryName</h5>
+        </div>
+        
+        @* ExcelFile *@                                                 
+        <div class="form-field flex">                                   
+            <div class="w-25">                                          
+                <label class="form-label pt">Choose an xlsx file</label>
+            </div>                                                      
+            <div class="flex-1">
+                <input type="file" name="excelFile" class="form-input" />
+                <div class="text-red">@ViewBag.ErrorMessage</div>
+                <div class="text-green">@ViewBag.Message</div>
+            </div>
+        </div>
+
+        <div class="form-field flex">
+            <div class="w-25"></div>
+            <div class="flex-1">
+                <button type="submit" class="button button-green-back">Upload</button>
+            </div>
+        </div>
+
+    </form>
+
+</div>

@@ -1,0 +1,411 @@
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.csproj.AssemblyReference.cache
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.AssemblyInfoInputs.cache
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.AssemblyInfo.cs
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.csproj.CoreCompileInputs.cache
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.MvcApplicationPartsAssemblyInfo.cs
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.RazorAssemblyInfo.cache
+D:\programming\.NET course\Udemy_AspdotNet_Core_9_dotNet_9_True_Ultimate_Guide_2024-11\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.RazorAssemblyInfo.cs
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.csproj.AssemblyReference.cache
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.AssemblyInfoInputs.cache
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.AssemblyInfo.cs
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.csproj.CoreCompileInputs.cache
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.RazorAssemblyInfo.cache
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.RazorAssemblyInfo.cs
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\appsettings.Development.json
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\appsettings.json
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.staticwebassets.runtime.json
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.staticwebassets.endpoints.json
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.exe
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.deps.json
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.runtimeconfig.json
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.pdb
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Azure.Core.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Azure.Identity.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\CsvHelper.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\EPPlus.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Humanizer.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Web.Mvc.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Web.Razor.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Web.Helpers.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Web.WebPages.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Rotativa.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Rotativa.AspNetCore.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Sinks.Seq.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.ClientModel.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.CodeDom.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Text.Json.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.CORE.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.Infrastructure.dll
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.CORE.pdb
+D:\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.Infrastructure.pdb
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\scopedcss\bundle\ContactManager.UI.styles.css
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets.build.json
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets.development.json
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets\msbuild.ContactManager.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets\msbuild.ContactManager.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets\msbuild.build.ContactManager.UI.props
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ContactManager.UI.props
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ContactManager.UI.props
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactM.FFB58D7A.Up2Date
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.dll
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\refint\ContactManager.UI.dll
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.pdb
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.genruntimeconfig.cache
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ref\ContactManager.UI.dll
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.MvcApplicationPartsAssemblyInfo.cs
+D:\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\appsettings.Development.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\appsettings.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.staticwebassets.endpoints.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.staticwebassets.runtime.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.exe
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.deps.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.runtimeconfig.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.UI.pdb
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Azure.Core.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Azure.Identity.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\CsvHelper.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\EPPlus.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Humanizer.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Web.Mvc.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Web.Razor.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Web.Helpers.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Web.WebPages.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Rotativa.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Rotativa.AspNetCore.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\Serilog.Sinks.Seq.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.ClientModel.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.CodeDom.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Text.Json.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.CORE.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.Infrastructure.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.CORE.pdb
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\bin\Debug\net8.0\ContactManager.Infrastructure.pdb
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.csproj.AssemblyReference.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.AssemblyInfoInputs.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.AssemblyInfo.cs
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.csproj.CoreCompileInputs.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.MvcApplicationPartsAssemblyInfo.cs
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.RazorAssemblyInfo.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.RazorAssemblyInfo.cs
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\scopedcss\bundle\ContactManager.UI.styles.css
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets.build.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets.development.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets\msbuild.ContactManager.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets\msbuild.ContactManager.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets\msbuild.build.ContactManager.UI.props
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ContactManager.UI.props
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ContactManager.UI.props
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactM.FFB58D7A.Up2Date
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\refint\ContactManager.UI.dll
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.pdb
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ContactManager.UI.genruntimeconfig.cache
+D:\programming\C# Projects\ContactManagerSolution\ContactManager.UI\obj\Debug\net8.0\ref\ContactManager.UI.dll

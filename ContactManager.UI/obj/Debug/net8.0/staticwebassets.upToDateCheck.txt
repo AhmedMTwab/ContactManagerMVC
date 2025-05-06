@@ -1,0 +1,3 @@
+wwwroot\error.svg
+wwwroot\rotativa\wkhtmltopdf.exe
+wwwroot\StyleSheet.css
